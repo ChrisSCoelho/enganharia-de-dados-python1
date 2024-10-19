@@ -1,3 +1,5 @@
+```markdown
+```mermaid
 graph TD
     A[Início] --> B[Carregar bibliotecas]
     B --> C[Buscar arquivo JSON]
