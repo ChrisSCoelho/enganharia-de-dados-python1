@@ -13,3 +13,5 @@
 #### - O Python-dotenv achei interessante, pois nele, criamos uma variável de ambiente, com os "requisitos" necessários para a conexão com o Banco de destino.
 #### Um dos pontos positivos do arquivo .env é armazenar informações sensíveis como senhas, chaves de API e credenciais de banco de dados,
 #### sem precisar expor esses dados diretamente no código, realizando apenas o carregamento dessas variáveis.
+
+
