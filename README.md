@@ -10,7 +10,7 @@
 
 <h2 align="center">Segue Imagens do projeto com cada trecho de código:</h2>
 
-<h3 align="center">Import</h3>
+<h3 align="center">Import:</h3>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/5e0efe0a-0a46-4e61-84df-d6989599b40f"/>
 </div>
@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">Buscando os Dados na Origem</h3>
+<h3 align="center">Buscando os Dados na Origem:</h3>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/fe8c8d46-2519-4680-993e-cce11a5313ef"/>
 </div>
@@ -26,7 +26,7 @@
 
 
 
-<h3 align="center">Realizando a conexão com o Banco utilizando a Variável de Ambiente</h3>
+<h3 align="center">Realizando a conexão com o Banco utilizando a Variável de Ambiente:</h3>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/e3fb5ac4-9c9e-478b-ba4a-fe446e19bdda"/>
 </div>
@@ -34,7 +34,7 @@
 
 
 
-<h3 align="center">Habilitando o Cursor e Executando comandos SQL</h3>
+<h3 align="center">Habilitando o Cursor e Executando comandos SQL:</h3>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/935c3808-bbdd-4fe1-bab6-be344001a8a0"/> 
 </div>
@@ -42,7 +42,7 @@
 
 
 
-<h3 align="center">Script completo</h3>
+<h2 align="center">Script completo:</h2>
 <div align="center">
 <img src = "https://github.com/user-attachments/assets/4a5261bf-53c9-4485-bfe0-3175b5f6d931"/>   
 </div>
