@@ -3,6 +3,7 @@
 ## Buscando dados do ANAC (Agência Nacional de Aviação Civil), tratando e subindo para o POSTGRE.
 
 - Neste pequeno projeto, utilizamos o Python para fazer o carregamento dos dados, de uma pasta local para o Postgre.
+- Primeiro criamos um ambiente virtual no VSCODE para instalar as bibliotecas necessárias.
 - Utilizamos algumas bibliotecas como PANDAS, PSYCOPG2 e PYTHON-DOTENV.
 - O Pandas tem várias funções, neste projeto o papel dele foi realizar toda a ingestão, tratamento e inserção dos dados no Banco de Destino.
 - Já o Psycopg2 teve o papel de realizar a conexão com o Postgre e através do cursor executar consultas SQL.
