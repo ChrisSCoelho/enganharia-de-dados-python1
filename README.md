@@ -3,7 +3,7 @@
 ## Buscando dados do ANAC (Agência Nacional de Aviação Civil), tratando e subindo para o POSTGRE.
 
 - Iniciando meus estudos em Python, voltado para a parte de Engenharia de Dados, com um projeto simples e prático.
-- Neste projeto, utilizamos o Python para fazer o carregamento dos dados, de uma pasta local para o Postgre.
+- Neste projeto, realizamos o carregamento dos dados, de uma pasta local para o Postgre.
 - Primeiro criamos um ambiente virtual no VSCODE para instalar as bibliotecas necessárias.
 - Utilizamos algumas bibliotecas como PANDAS, PSYCOPG2 e PYTHON-DOTENV.
 - O Pandas tem várias funções, neste projeto o papel dele foi realizar toda a ingestão, tratamento e inserção dos dados no Banco de Destino.
